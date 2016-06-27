@@ -1,0 +1,17 @@
+.spoiler1{
+    margin: auto;
+    width: 60%;
+    padding: 3px;
+    background-color: #d3d3d3;
+    border: 1px solid #a8a8a8;
+    border-radius: 2px;
+}
+.spoiler2{
+    margin: auto;
+    margin-top: -8px;
+    width: 60%;
+    padding: 3px;
+    background-color: #d3d3d3;
+    border: 1px solid #a8a8a8;
+    border-radius: 2px;
+}
